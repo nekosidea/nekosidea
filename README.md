@@ -2,4 +2,4 @@
 
 my blog: [neko's IDE](https://nekoside.com/)
 
-pronunciation: /ˈnekoʊˌsaɪd/
+pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&text=nekoside&op=translate)
