@@ -1,5 +1,5 @@
 # neko's idea
 
-my blog: [neko's IDE or nekoside](https://nekoside.com/)
+my blog: [neko's IDE](https://nekoside.com/)
 
 pronunciation: /ˈnekoʊˌsaɪd/
