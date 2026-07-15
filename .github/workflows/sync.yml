@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: push
         run: |
-                git remote add codeberg https://nekoside:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/nekoside/.profile.git
+                git remote add codeberg https://nekoside:${{ secrets.CODEBERG }}@codeberg.org/nekoside/.profile.git
                 git push codeberg --all --force
                 git push codeberg --tags --force
