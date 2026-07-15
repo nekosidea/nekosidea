@@ -18,9 +18,9 @@ The programming languages I'm learning:
 
 ![](https://skillicons.dev/icons?i=cpp,ts,go,rust)
 
-I'm still a noob:
-
+I'm still a noob...
+<!--
 <img src="https://github-stats-extended.vercel.app/api?username=nekosidea&hide_title=true&include_all_commits=true&disable_animations=true&theme=github_dark" height="160" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=nekosidea&layout=compact&hide_title=true&langs_count=8&hide_values=true&disable_animations=true&theme=github_dark" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=nekosidea&layout=compact&hide_title=true&langs_count=8&hide_values=true&disable_animations=true&theme=github_dark" height="160" />-->
 
 </div>
