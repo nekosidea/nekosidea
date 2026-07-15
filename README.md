@@ -13,4 +13,4 @@ The programming languages I'm learning:
 ![](https://skillicons.dev/icons?i=cpp,ts,go,rust)
 
 - I like FOSS
-- I use ![](https://skillicons.dev/icons?i=arch) btw (
+- I use arch btw (
