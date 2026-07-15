@@ -8,7 +8,7 @@ my blog: [nekoside](https://nekoside.com/)
 
 pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&text=nekoside&op=translate)
 
-<ul style="text-align: left;">
+<ul style="display: inline-block; text-align: left;">
     <li>I like FOSS</li>
     <li>I use arch btw (</li>
     <li>I'm a noob</li>
