@@ -1,6 +1,6 @@
 <div align="center">
 
-# neko's idea
+# neko's idea 🍥
 
 Hello, I'm *nekoside*,
 
