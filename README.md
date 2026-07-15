@@ -8,14 +8,6 @@ my blog: [nekoside](https://nekoside.com/)
 
 pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&text=nekoside&op=translate)
 
-<div align="center">
-
-- I like FOSS
-- I use arch btw (
-- I'm a noob
-
-</div>
-
 ---
 
 The programming languages I'm learning:
