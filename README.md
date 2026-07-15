@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # neko's idea
 
