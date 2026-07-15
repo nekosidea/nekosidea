@@ -10,6 +10,10 @@ pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&
 
 ---
 
+I use arch btw (
+
+![](https://skillicons.dev/icons?i=arch)
+
 The programming languages I'm learning:
 
 ![](https://skillicons.dev/icons?i=cpp,ts,go,rust)
