@@ -14,5 +14,6 @@ The programming languages I'm learning:
 
 - I like FOSS
 - I use arch btw (
+- I'm a noob
 
 ![](https://github-stats-extended.vercel.app/api?username=nekosidea&hide_title=true&include_all_commits=true&disable_animations=true&theme=github_dark)
