@@ -8,11 +8,11 @@ my blog: [nekoside](https://nekoside.com/)
 
 pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&text=nekoside&op=translate)
 
-• I like FOSS
-
-• I use arch btw (
-
-• I'm a noob
+<ul>
+    <li>I like FOSS</li>
+    <li>I use arch btw (</li>
+    <li>I'm a noob</li>
+</ul>
 
 ---
 
