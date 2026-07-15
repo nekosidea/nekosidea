@@ -1,3 +1,5 @@
+<div align="center">
+
 # neko's idea
 
 Hello, I'm *nekoside*,
@@ -12,13 +14,9 @@ pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&
 
 ---
 
-<div align="center">
-
 The programming languages I'm learning:
 
 ![](https://skillicons.dev/icons?i=cpp,ts,go,rust)
-
-
 
 [![](https://github-stats-extended.vercel.app/api?username=nekosidea&hide_title=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=nekosidea&hide_title=true&include_all_commits=true&disable_animations=true&theme=github_dark)
 
