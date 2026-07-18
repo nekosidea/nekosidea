@@ -2,7 +2,7 @@
 
 # neko's idea🍥
 
-Hello, I'm *nekoside*,
+Hello, I'm _nekoside_,
 
 my blog: [nekoside](https://nekoside.com/)
 
@@ -19,8 +19,13 @@ The programming languages I'm learning:
 ![](https://skillicons.dev/icons?i=cpp,ts,go,rust)
 
 I'm still a noob...
-<!--
-<img src="https://github-stats-extended.vercel.app/api?username=nekosidea&hide_title=true&include_all_commits=true&disable_animations=true&theme=github_dark" height="160" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=nekosidea&layout=compact&hide_title=true&langs_count=8&hide_values=true&disable_animations=true&theme=github_dark" height="160" />-->
+
+---
+
+GPG keys
+
+fingerprint: `CEC1 87C6 5516 C521 7CE4  D6BB D9BA D084 3970 E5DA`
+
+public key: [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/CEC187C65516C5217CE4D6BBD9BAD0843970E5DA)
 
 </div>
