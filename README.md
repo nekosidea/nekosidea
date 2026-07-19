@@ -26,6 +26,9 @@ GPG keys
 
 fingerprint: `CEC1 87C6 5516 C521 7CE4  D6BB D9BA D084 3970 E5DA`
 
-public key: [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/CEC187C65516C5217CE4D6BBD9BAD0843970E5DA)
+public key:
+
+- `gpg --locate-keys dev@nekoside.com`
+- [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/CEC187C65516C5217CE4D6BBD9BAD0843970E5DA)
 
 </div>
