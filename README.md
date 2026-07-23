@@ -28,6 +28,4 @@ fingerprint: `B9E0 015B 0DA4 1696 11E7  215B 787B 2322 D51A 2936`
 
 public key: `gpg --locate-keys dev@nekoside.com`
 
-or [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/CEC187C65516C5217CE4D6BBD9BAD0843970E5DA)
-
 </div>
